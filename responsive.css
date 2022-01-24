@@ -1,0 +1,11 @@
+@media screen and ( max-width: 480px ) {
+	
+	body{
+		width:500px;
+		display:block;
+	}
+	
+	.hrow-1-1{
+	width:100%;
+	
+}
